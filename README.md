@@ -1,4 +1,5 @@
 This is sample code of our paper [Dual-perspective Label Uncertainty Guidance for Accurate Tumor Segmentation] on the LiTS dataset.
+
 Requirements
 1) Environment: Python 3.9, Ubuntu 20.04, pytorch 1.8.0
 2) pip install segmentation-models-pytorch
