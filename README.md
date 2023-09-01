@@ -4,6 +4,7 @@ Requirements
 2) pip install segmentation-models-pytorch
 then overwrite with our modified version ‘code/segmentation_models_pytorch’
 3) Other major dependencies: SimpleITK, cv2, medpy
+
 Usage
 1) The LiTS dataset folder is required to contain the following: volumes/ (volume files), labels/ 
 (label mask files), train_vol.txt (volume ids for model training), valid_vol.txt (volume ids for 
