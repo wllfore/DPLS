@@ -1,4 +1,4 @@
-This is sample code of our paper [Dual-Perspective Soft Label For Accurate Tumor Segmentation] on the LiTS dataset.
+This is sample code of our paper [Dual-Perspective Label Smoothing For Accurate Tumor Segmentation] on the LiTS dataset.
 
 Requirements
 1) Environment: Python 3.9, Ubuntu 20.04, pytorch 1.8.0
